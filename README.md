@@ -20,3 +20,29 @@ Minecraft mod for Hypixel adding lobby related features like middle click gui it
 
 - Replace left click with middle click in GUIs
 - For Hypixel Skyblock use [Legacy Skyblock](https://modrinth.com/mod/legacyskyblock) instead
+
+### Sound Silencer
+
+- Silent Lobby
+- Disable Stepping Sounds
+- Disable Slime Sounds
+- Disable Dragon Sounds
+- Disable Wither Sounds
+- Disable Item Pickup Sounds
+- Disable Experience Orb Sounds
+- Disable Primed TNT Sounds
+- Disable Explosion Sounds
+- Disable Delivery Man Sounds
+- Disable Note Block Sounds
+- Disable Firework Sounds
+- Disable Levelup Sounds
+- Disable Arrow Sounds
+- Disable Bat Sounds
+- Disable Fire Sounds
+- Disable Enderman Sounds
+- Disable Door Sounds
+- Disable Portal Sounds
+
+### Limbo
+
+- Limbo Limiter

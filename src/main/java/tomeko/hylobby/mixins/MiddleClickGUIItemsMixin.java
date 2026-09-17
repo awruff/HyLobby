@@ -200,7 +200,7 @@ public abstract class MiddleClickGUIItemsMixin {
                 instance.getTitle().getString();
         //?}
 
-        if (HyLobbyConfig.INSTANCE.getMiddleClickInLobby() && HypixelPackets.INSTANCE.getInLobby())
+        if (HyLobbyConfig.INSTANCE.getMiddleClickGUIItems() && HypixelPackets.INSTANCE.getInLobby())
             return containerTitle.contains("Layout Editor");
 
         return true;
